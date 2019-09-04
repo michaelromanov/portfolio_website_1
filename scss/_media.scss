@@ -132,3 +132,20 @@
       }
   }
 }
+
+//Landscape
+@media(max-height: 580px) {
+  #header-home {
+    .header-content {
+      padding-top: 3rem;
+    }
+  }
+}
+
+@media(max-height: 330px) {
+  #header-home {
+    .header-content {
+      font-size: 2rem;
+    }
+  }
+}
