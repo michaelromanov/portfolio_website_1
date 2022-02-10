@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/michaelromanov/portfolio_website_1#readme",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
